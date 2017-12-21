@@ -1,12 +1,99 @@
-Ticker
-TSN
-LNG
-SSYS
-HD
-TGT
-NTAP
-NTES
-CSCO
-BBY
-WMT
-AMAT
+Ticker,Company,Earnings Call Time,EPS Estimate
+AMDA,Amedica Corp,Time Not Supplied,-0.94
+ADI,Analog Devices Inc,3:00AM EST,1.36
+BZUN,Baozun Inc,After Market Close,0.08
+BURL,Burlington Stores Inc,Before Market Open,0.65
+CAL,Caleres Inc,After Market Close,0.85
+CPB,Campbell Soup Co,Before Market Open,0.97
+CMCM,Cheetah Mobile Inc,Before Market Open,0.09
+CHS,Chico's FAS Inc,Before Market Open,0.13
+BORN,China New Borun Corp,After Market Close,-
+CTRN,Citi Trends Inc,Before Market Open,-
+CPRT,Copart Inc,After Market Close,0.27
+CBRL,Cracker Barrel Old Country Store Inc,Before Market Open,1.84
+DSW,DSW Inc,Before Market Open,0.53
+DAKT,Daktronics Inc,Before Market Open,0.17
+DSX,Diana Shipping Inc,Before Market Open,-0.2
+DLTR,Dollar Tree Inc,Before Market Open,0.9
+DRYS,DryShips Inc,After Market Close,-
+EVLV,EVINE Live Inc,Before Market Open,-0.03
+EV,Eaton Vance Corp,4:00AM EST,0.71
+GME,GameStop Corp,After Market Close,0.43
+GOGL,Golden Ocean Group Ltd,Time Not Supplied,-0.05
+GES,Guess? Inc,After Market Close,0.12
+HPQ,HP Inc,After Market Close,0.44
+HRL,Hormel Foods Corp,Before Market Open,0.4
+JEC,Jacobs Engineering Group Inc,Before Market Open,-
+KIRK,Kirkland's Inc,Before Market Open,-0.08
+LOW,Lowe's Companies Inc,Before Market Open,1.03
+MDT,Medtronic PLC,Before Market Open,0.98
+MOV,Movado Group Inc,Before Market Open,0.85
+NJR,New Jersey Resources Corp,Before Market Open,-0.13
+PDCO,Patterson Companies Inc,Before Market Open,0.54
+CRM,Salesforce.com Inc,After Market Close,0.37
+SDLP,Seadrill Partners LLC,Time Not Supplied,0.22
+SIG,Signet Jewelers Ltd,2:00AM EST,0.1
+AEO,American Eagle Outfitters Inc,Before Market Open,0.38
+ADSK,Autodesk Inc,After Market Close,-0.13
+BV,Bazaarvoice Inc,After Market Close,0.01
+HTHT,China Lodging Group Ltd,After Market Close,0.97
+CBK,Christopher & Banks Corp,Before Market Open,0.02
+EXA,Exa Corp,After Market Close,0.05
+FFHL,Fuwei Films Holdings Co Ltd,After Market Close,-
+LEJU,Leju Holdings Ltd,Before Market Open,-0.25
+MRVL,Marvell Technology Group Ltd,Time Not Supplied,0.32
+MOMO,Momo Inc,Before Market Open,0.38
+FIZZ,National Beverage Corp,Before Market Open,0.68
+NWY,New York & Company Inc,After Market Close,-
+NUAN,Nuance Communications Inc,After Market Close,0.15
+OBAS,Optibase Ltd,Time Not Supplied,-
+PSTG,Pure Storage Inc,After Market Close,-0.03
+RADA,Rada Electronic Industries Ltd,Time Not Supplied,-
+WAIR,Wesco Aircraft Holdings Inc,After Market Close,0.18
+SWHC,American Outdoor Brands Corp,After Market Close,-
+ASNA,Ascena Retail Group Inc,After Market Close,0.11
+HOME,At Home Group Inc,After Market Close,0.04
+BOX,Box Inc,After Market Close,-0.13
+CENT,Central Garden & Pet Co,After Market Close,0.1
+GIII,G-III Apparel Group Ltd,Before Market Open,1.53
+GWRE,Guidewire Software Inc,After Market Close,-0.14
+HNNA,Hennessy Advisors Inc,Time Not Supplied,0.55
+JACK,Jack in the Box Inc,After Market Close,0.9
+LZB,La-Z-Boy Inc,After Market Close,0.45
+MNR,Monmouth Real Estate Investment Corp,After Market Close,0.1
+FSC,Oaktree Specialty Lending Corp,Before Market Open,0.14
+PVH,PVH Corp,After Market Close,2.91
+PNNT,PennantPark Investment Corp,After Market Close,0.19
+PLAB,Photronics Inc,Before Market Open,0.06
+SHOS,Sears Hometown and Outlet Stores Inc,Before Market Open,-
+SMTC,Semtech Corp,After Market Close,0.5
+SNPS,Synopsys Inc,After Market Close,0.57
+TIF,Tiffany & Co,Before Market Open,0.76
+TLYS,Tillys Inc,After Market Close,0.21
+WDAY,Workday Inc,After Market Close,0.15
+XCRA,Xcerra Corp,Before Market Open,0.18
+YIN,Yintech Investment Holdings Ltd,Before Market Open,-
+ALCO,Alico Inc,After Market Close,-
+AABA,Altaba Inc,After Market Close,-
+AMBA,Ambarella Inc,After Market Close,0.67
+BOSC,BOS Better Online Solutions Ltd,Time Not Supplied,-
+BKS,Barnes & Noble Inc,Before Market Open,-0.26
+BIG,Big Lots Inc,Before Market Open,0.04
+DCI,Donaldson Company Inc,Before Market Open,-
+EXPR,Express Inc,Before Market Open,0.08
+FIVE,Five Below Inc,After Market Close,0.13
+GENC,Gencor Industries Inc,Time Not Supplied,-
+GLNG,Golar LNG Ltd,Before Market Open,-
+GMLP,Golar LNG Partners LP,Before Market Open,0.47
+KR,Kroger Co,Before Market Open,0.4
+MIK,Michaels Companies Inc,Before Market Open,0.43
+NTNX,Nutanix Inc,After Market Close,-0.26
+PFLT,PennantPark Floating Rate Capital Ltd,After Market Close,0.34
+PERY,Perry Ellis International Inc,Before Market Open,0.25
+TITN,Titan Machinery Inc,Before Market Open,0.08
+TNP,Tsakos Energy Navigation Ltd,Before Market Open,-0.09
+VMW,VMware Inc,After Market Close,1.27
+ZUMZ,Zumiez Inc,After Market Close,0.48
+AMWD,American Woodmark Corp,Before Market Open,1.26
+GCO,Genesco Inc,Before Market Open,1.12
+FSFR,Oaktree Strategic Income Corporation,Before Market Open,0.2
